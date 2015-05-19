@@ -2,7 +2,7 @@ Jabref journal name abbreviations
 =================================
 
 Some journal require you to use the abbreviated names for journals. If you have
-to change this manually, it's quite cumbersome to do. Luckyly there exist tools
+to change this manually, it's quite cumbersome to do. Luckily there exist tools
 to help. [Jabref](http://jabref.sourceforge.net) is open source bibliography
 reference manager. It has an option to abbreviate journal names. However,
 when it comes to Physics journals, the internal list is far from complete.
