@@ -4810,6 +4810,7 @@ Physical Chemistry Chemical Physics = Phys. Chem. Chem. Phys.
 Physical Mesomechanics = Phys. Mesomech.
 Physical Oceanography = Phys. Oceanogr.
 Physical Review A: Atomic, Molecular, and Optical Physics = Phys. Rev. A: At. Mol. Opt. Phys.
+Physical Review A = Phys. Rev. A
 Physical Review Applied = Phys. Rev. Appl
 Physical Review B: Condensed Matter = Phys. Rev. B: Condens. Matter
 Physical Review B = Phys. Rev. B
